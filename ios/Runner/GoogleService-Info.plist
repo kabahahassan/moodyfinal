@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744353641294-u6or7nlnglffs1kj16mccn1fgn8rgcq8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744353641294-u6or7nlnglffs1kj16mccn1fgn8rgcq8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAecNZtDpfFLGzkBdxEx260gVKgR9bCvRI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744353641294</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hassankabha.com.moodyfinal</string>
+	<key>PROJECT_ID</key>
+	<string>moody-e317d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moody-e317d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744353641294:ios:5626ea161ce2b48cdda41f</string>
+	<key>DATABASE_URL</key>
+	<string>https://moody-e317d.firebaseio.com</string>
+</dict>
+</plist>

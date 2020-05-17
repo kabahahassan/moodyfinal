@@ -15,6 +15,12 @@ environment:
 dependencies:
   get_it: ^1.0.3+2
   url_launcher: ^5.0.3
+  firebase_core: ^0.4.4+3
+  cloud_firestore: ^0.13.5
+  firebase_storage: ^3.1.5
+  firebase_image: ^0.1.6
+  flutter_spinkit: ^4.1.2+1
+
   flutter:
     sdk: flutter
 
